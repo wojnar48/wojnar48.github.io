@@ -2610,13 +2610,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/road.jpg");
+		background-image: url("../../images/hello_world_cr.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 18.85em;
 		width: 100%;
 	}
 
