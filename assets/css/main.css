@@ -2610,8 +2610,8 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/hello_world_cr.jpg");
-		background-position: top right;
+		background-image: url("../../images/uno.jpg");
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
