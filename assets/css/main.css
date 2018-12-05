@@ -2932,7 +2932,11 @@
 
 			header.major h2 {
 				font-size: 2.5em;
-			}
+      }
+      
+      /* header.major p { */
+
+      /* } */
 
 				header.major h2 + p {
 					font-size: 1.5em;
